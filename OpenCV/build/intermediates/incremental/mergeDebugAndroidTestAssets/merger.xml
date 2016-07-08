@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="C:\Users\josia_000\Documents\REU\tutorial-1-camerapreview\OpenCV\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="C:\Users\josia_000\Documents\REU\tutorial-1-camerapreview\OpenCV\src\androidTest\assets"/><source path="C:\Users\josia_000\Documents\REU\tutorial-1-camerapreview\OpenCV\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

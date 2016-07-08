@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ArucoActivity!</string>
+    <string name="app_name">Aruco</string>
+    <string name="calibration_instructions">You will get much more accurate results once you calibrate your camera. To do so, you must first take several pictures from the pattern.</string>
+    <string name="take_photo">Take a picture</string>
+    <string name="done">Done!</string>
+    <string name="calibration_photo_description">image taken</string>
+</resources>
